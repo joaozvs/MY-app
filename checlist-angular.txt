@@ -3,8 +3,14 @@
 3. instalar o angular (https)
 4. ng version (check angular instalado)
 
-# -------------- rotinas do GIT
+# -------------- Rotinas do GIT
 1. git status (verifique situação)
 2. se vermelho -> git add .
 3. se verde -> git commit -m "nome do commit"
-4. se tudo ok -> git push
+4. se tudo ok -> git push (atualiza no github)
+5. git clone (copia do repositorio e coloca na maquina)
+6. pwd (mostra o caminho que vc está)
+7. clear/cls (limpa a barra do terminal)
+
+#------ANGULAR
+ng new nome-projeto (criar um projeto)
