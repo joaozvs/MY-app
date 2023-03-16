@@ -1,0 +1,13 @@
+.container {
+    background:  linear-gradient( violet, #793427, #579345, #484862);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.img {
+    height: 100px;
+    width: 100px;
+}
