@@ -12,5 +12,11 @@
 6. pwd (mostra o caminho que vc está)
 7. clear/cls (limpa a barra do terminal)
 
+8.git clone endereco.git. (comando para copiar do github p local)
+8.1.npm install (dentro da pasta do projeto p instalar node_modules)
+
+------PARA REMOVER USUARIO ANTIGO-----
+git config --system--unset credential.helper
+
 #------ANGULAR
 ng new nome-projeto (criar um projeto)
